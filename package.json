@@ -2,7 +2,7 @@
   "name": "experience-catalog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/experience-catalog",
+  "homepage": "/sales/experience-catalog",
   "dependencies": {
     "@trendmicro/react-sidenav": "^0.4.5",
     "babel-polyfill": "^6.26.0",
