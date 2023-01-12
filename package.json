@@ -10,7 +10,7 @@
     "core-js": "^3.2.1",
     "forcejs": "git+https://github.com/couturecraigj/forcejs.git",
     "jsforce": "https://github.com/couturecraigj/jsforce.git",
-    "jsforce-ajax-proxy": "^1.0.0",
+    "jsforce-ajax-proxy": "^2.0.0",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
